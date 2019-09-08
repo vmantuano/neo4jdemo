@@ -2,11 +2,11 @@ Idnodo,Label,Type,Category,Geo
 ALBI PROFESSIONALI SOPPRESSI,Sezione,,,
 Albi, Ruoli e Licenze,Sezione,,,
 ANAGRAFICA PERSONA - DATI ANAGRAFICI ALTERNATIVI,Sezione,,,
-ANAGRAFICA PERSONA - DATI ANAGRAFICI PRINCIPALI ,Sezione,,,
+ANAGRAFICA PERSONA - DATI ANAGRAFICI PRINCIPALI,Sezione,,,
 ANAGRAFICA PERSONA - INDIRIZZI STORICI DI RESIDENZA/DOMICILIO RECUPERATI,Sezione,,,
 Arpa,Database,Oracle,NUFA,PD
 Atti Ufficiali Depositati,Sezione,,,
-Attivit… Economica,Sezione,,,
+AttivitÃ  Economica,Sezione,,,
 Basic,Prodotto,,,
 BICE,Database,Oracle,BIRI,PD
 BIRI,Database,Oracle,BIRI,PD
@@ -15,7 +15,7 @@ CARICHE/QUALIFICHE SOGGETTO,Sezione,,,
 Cart,Database,Oracle,ORA8,PD
 Cartesio,Piattaforma,Web,WebApplication,
 CCS,Piattaforma,Web,WebApplication,
-Certificazione di Qualit…,Sezione,,,
+Certificazione di Qualitâ€¦,Sezione,,,
 CGR,Prodotto,,,
 CGRP,Prodotto,,,
 Client Mondo,Piattaforma,Web,WebApplication,
@@ -24,8 +24,8 @@ Collegio Sindacale,Sezione,,,
 Dati Identificativi & Caratteristici Impresa,Sezione,,,
 Dossier Approfondito,Prodotto,,,
 Dossier Approfondito con Soci,Prodotto,,,
-Dossier con Soci ed RSFI ,Prodotto,,,
-Dossier Persona ,Prodotto,,,
+Dossier con Soci ed RSFI,Prodotto,,,
+Dossier Persona,Prodotto,,,
 Dossier Persona approfondito,Prodotto,,,
 Dossier Persona con Partecipazioni,Prodotto,,,
 Dossier RSFI,Prodotto,,,
@@ -54,7 +54,7 @@ Monitoraggio Corporate,Prodotto,,,
 Movimentazioni da Protocollo Ufficiale CCIAA,Sezione,,,
 MOVIMENTAZIONI IMMOBILIARI,Sezione,,,
 Nemesi,Database,Oracle,DU,PD
-Neo4J  ,Database,NoSQL,,Cloud Amazonÿ??
+Neo4J,Database,NoSQL,,Cloud Amazon
 Notizie Storiche - Dettaglio,Sezione,,,
 Notizie Storiche Estratto,Sezione,,,
 Notizie Storiche Estratto - Precedenti Cariche / Qualifiche,Sezione,,,
@@ -64,9 +64,9 @@ PARTECIPAZIONI DA ARCHIVIO SOCI,Sezione,,,
 PATRIMONIO IMMOBILIARE,Sezione,,,
 People,,,,
 Perimetro di controllo Immobiliare,Sezione,,,
-Perimetro di Controllo negativit…,Sezione,,,
-Perimetro Dossier Persona??,Sezione,,,
-Perimetro Immobiliare Persona??,Sezione,,,
+Perimetro di Controllo negativitÃ ,Sezione,,,
+Perimetro Dossier Persona,Sezione,,,
+Perimetro Immobiliare Persona,Sezione,,,
 POSSIBILI OMONIMIE PROTESTI,Sezione,,,
 Pragma,Database,Oracle,Synth,PD
 Pregiudizievoli,Sezione,,,
@@ -83,11 +83,11 @@ Solr,Database,NoSQL,,PD
 Spaziodati,Database- Fornitore,,,
 Tabula,Database,MongoDb,,PD
 Teradata,Database,Teradata,,PD
-Testata del Documento Dossier Impresa e DAOÿ,Sezione,,,
+Testata del Documento Dossier Impresa e DAO,Sezione,,,
 Thesis,Database,Oracle,Synth,PD
 TITOLARE CON QUOTA >25% PERSONA,Sezione,,,
 Titolari di Cariche o Qualifiche,Sezione,,,
-Uffici/Unit… Locali Attive,Sezione,,,
-Uffici/Unit… Locali Cessate,Sezione,,,
+Uffici/UnitÃ  Locali Attive,Sezione,,,
+Uffici/UnitÃ  Locali Cessate,Sezione,,,
 UGNA,Database,Oracle,ORA8,PD
 Vac,Database,Oracle,,PD
