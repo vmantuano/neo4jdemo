@@ -1,0 +1,741 @@
+Livello,Prog.,startNode,endNode,Relazione,Descrizione,AmbitoCDC,Aggiornamento,Day,Volumi,Peso
+1,1,Infocamere,MongoDB,API,Visure,D02,Settimanale,7,64.505,3,36
+1,2,Infocamere,Cart,API,Visure,D02,Settimanale,7,64.505,3,36
+1,3,Infocamere,Nemesi,Esplosore,Visure,D02,Settimanale,7,64.505,3,36
+2,4,Nemesi,Thesis,Esplosore,Visure,D02,Real time,1,9.215,3,36
+2,5,Nemesi,Kosmos,Esplosore,Visure,D02,Real time,1,9.215,3,36
+2,6,Nemesi,Pragma,Esplosore,Visure,D02,Real time,1,9.215,3,36
+2,7,Nemesi,Teradata,CDC,Visure,D02,Near real time,1,9.215,3,36
+2,8,Cart,RIC,Esplosore,Visure,D02,Real time,1,9.215,3,36
+2,9,Cart,Fallimenti,Esplosore,Visure,D02,Real time,1,1.567,0,57
+2,10,Cart,Cartesio,BR,Visure,D02,Real time,1,,0,00
+3,11,Thesis,Hadoop,CDC,Visure,D02,Giornaliera,1,9.215,3,36
+3,12,Thesis,Teradata,CDC,Visure,D02,Giornaliera,1,9.215,3,36
+3,13,Thesis,Pragma,Esplosore,Visure,D02,Real time,1,9.215,3,36
+3,14,Kosmos,Teradata,CDC,Visure,D02,Giornaliera,1,9.215,3,36
+3,15,Kosmos,Hadoop,CDC,Visure,D02,Giornaliera,1,9.215,3,36
+3,16,Kosmos,Tabula,Esplosore,Visure,D02,Near Real time,1,9.215,3,36
+3,17,Kosmos,nTabula,Esplosore,Visure,D02,Near Real time,1,9.215,3,36
+3,18,Kosmos,Neo4J  ,Esplosore,Visure,D02,Near Real time,1,9.215,3,36
+3,19,Kosmos,Solr,Esplosore,Visure,D02,Near Real time,1,9.215,3,36
+3,20,Kosmos,Pragma,Esplosore,Visure,D02,Real time,1,9.215,3,36
+3,21,Kosmos,Basic,BR,Visure,D02,Real time,1,,
+3,22,Kosmos,Cartesio,BR,Visure,D02,Real time,1,,
+3,23,RIC,People,Esplosore,Visure,D02,Real time,1,9.215,3,36
+3,24,RIC,Soccer,ETL,Visure,D02,Real time,1,,0,00
+3,25,RIC,UGNA,Esplosore,Visure,D02,Real time,1,9.215,3,36
+3,26,RIC,Vac,Esplosore,Visure,D02,Real time,1,9.215,3,36
+4,27,Vac,Mondo,BR,Visure,D02,Giornaliera,1,9.215,3,36
+4,28,nTabula,Cloud,,Visure,D02,Near Real time,1,9.215,3,36
+4,29,Tabula,Spaziodati,ETL,Visure,D02,,,,
+4,30,UGNA,BIRI,Esplosore,Visure,D02,Giornaliera,1,,0,00
+4,31,UGNA,Soccer,Esplosore,Visure,D02,Giornaliera,1,,0,00
+4,32,UGNA,Arpa,Esplosore,Visure,D02,Giornaliera,1,,0,00
+4,33,UGNA,BICE,Esplosore,Visure,D02,Giornaliera,1,,0,00
+4,34,UGNA,Mondo,Eventi,Visure,D02,Giornaliera,1,,0,00
+4,35,Pragma,Monitoraggio Corporate,Eventi,Visure,D02,Giornaliera,1,9.215,3,36
+4,36,Pragma,Mondo4,Eventi,Visure,D02,Giornaliera,1,9.215,3,36
+4,37,Pragma,Mondo,Eventi,Visure,D02,Giornaliera,1,9.215,3,36
+4,38,Pragma,R3,Eventi,Visure,D02,Real time,1,9.215,3,36
+4,39,Pragma,Solr,Eventi,Visure,D02,Giornaliera,1,9.215,3,36
+4,40,Pragma,Solr,Eventi,Visure,D02,Giornaliera,1,9.215,3,36
+4,41,Pragma,Tabula,Eventi,Visure,D02,Real time,1,9.215,3,36
+4,42,Hadoop,Graph4you,BR,Visure,D02,Giornaliera,1,9.215,3,36
+4,43,Pragma,CGRP,Eventi,Visure,D02,Real time,1,,
+5,44,Mondo,Client Mondo,Eventi,Visure,D02,Real time,1,9.215,3,36
+4,45,Pragma,CGR,Eventi,Visure,D02,Real time,1,9.215,3,36
+5,46,Mondo,MondoP,Eventi,Visure,D02,Giornaliera,1,9.215,3,36
+5,47,Mondo,Solr,Eventi,Visure,D02,Giornaliera,1,9.215,3,36
+6,48,Solr,CCS,Eventi,Visure,D02,Real time,1,9.215,3,36
+6,49,Solr,Mondo3,Eventi,Visure,D02,Real time,1,9.215,3,36
+6,50,Solr,Mondo4,Eventi,Visure,D02,Real time,1,9.215,3,36
+4,51,Basic,C5,Orchestratore,Visure,D02,Real time,1,,
+4,52,Basic,CCS,Orchestratore,Visure,D02,Real time,1,,
+3,54,Cartesio,Prospetto,BR,Visure,D02,Real time,1,,
+4,55,Cartesio,ANAGRAFICA PERSONA - DATI ANAGRAFICI PRINCIPALI ,BR,Visure,D02,Real time,1,21115,7,71
+4,56,Cartesio,ANAGRAFICA PERSONA - DATI ANAGRAFICI ALTERNATIVI,BR,Visure,D02,Real time,1,21115,7,71
+4,57,Cartesio,ANAGRAFICA PERSONA - INDIRIZZI STORICI DI RESIDENZA/DOMICILIO RECUPERATI,BR,Visure,D02,Real time,1,21115,7,71
+4,58,Cartesio,TITOLARE CON QUOTA >25% PERSONA,BR,Visure,D02,Real time,1,26,0,01
+4,59,Cartesio,CARICHE/QUALIFICHE SOGGETTO,BR,Visure,D02,Real time,1,21115,7,71
+4,60,Cartesio,PARTECIPAZIONI DA ARCHIVIO SOCI,BR,Visure,D02,Real time,1,21115,7,71
+4,61,Cartesio,PATRIMONIO IMMOBILIARE,BR,Visure,D02,Real time,1,767,0,28
+4,62,Cartesio,MOVIMENTAZIONI IMMOBILIARI,BR,Visure,D02,Real time,1,0,
+4,63,Cartesio,ALBI PROFESSIONALI SOPPRESSI,BR,Visure,D02,Real time,1,21115,7,71
+4,64,Cartesio,PROTESTI,BR,Visure,D02,Real time,1,21115,7,71
+4,65,Cartesio,POSSIBILI OMONIMIE PROTESTI,BR,Visure,D02,Real time,1,21115,7,71
+4,66,Cartesio,EVENTI DI CONSERVATORIA,BR,Visure,D02,Real time,1,21115,7,71
+4,67,Cartesio,FALLIMENTI E PROCEDURE SU IMPRESE CONNESSE SOGGETTO,BR,Visure,D02,Real time,1,21115,7,71
+4,68,Cartesio,Perimetro Immobiliare Persona??,BR,Visure,D02,Real time,1,21115,7,71
+4,69,Cartesio,Perimetro Dossier Persona??,BR,Visure,D02,Real time,1,21115,7,71
+5,70,ANAGRAFICA PERSONA - DATI ANAGRAFICI PRINCIPALI ,Dossier Persona approfondito,Orchestratore,Visure,D02,Real time,1,21115,7,71
+5,71,ANAGRAFICA PERSONA - DATI ANAGRAFICI ALTERNATIVI,Dossier Persona approfondito,Orchestratore,Visure,D02,Real time,1,21115,7,71
+5,72,ANAGRAFICA PERSONA - INDIRIZZI STORICI DI RESIDENZA/DOMICILIO RECUPERATI,Dossier Persona approfondito,Orchestratore,Visure,D02,Real time,1,21115,7,71
+5,73,TITOLARE CON QUOTA >25% PERSONA,Dossier Persona approfondito,Orchestratore,Visure,D02,Real time,1,26,0,01
+5,74,CARICHE/QUALIFICHE SOGGETTO,Dossier Persona approfondito,Orchestratore,Visure,D02,Real time,1,21115,7,71
+5,75,PARTECIPAZIONI DA ARCHIVIO SOCI,Dossier Persona approfondito,Orchestratore,Visure,D02,Real time,1,21115,7,71
+5,76,PATRIMONIO IMMOBILIARE,Dossier Persona approfondito,Orchestratore,Visure,D02,Real time,1,767,0,28
+5,77,MOVIMENTAZIONI IMMOBILIARI,Dossier Persona approfondito,Orchestratore,Visure,D02,Real time,1,0,
+5,78,ALBI PROFESSIONALI SOPPRESSI,Dossier Persona approfondito,Orchestratore,Visure,D02,Real time,1,21115,7,71
+5,79,PROTESTI,Dossier Persona approfondito,Orchestratore,Visure,D02,Real time,1,21115,7,71
+5,80,POSSIBILI OMONIMIE PROTESTI,Dossier Persona approfondito,Orchestratore,Visure,D02,Real time,1,21115,7,71
+5,81,EVENTI DI CONSERVATORIA,Dossier Persona approfondito,Orchestratore,Visure,D02,Real time,1,21115,7,71
+5,82,FALLIMENTI E PROCEDURE SU IMPRESE CONNESSE SOGGETTO,Dossier Persona approfondito,Orchestratore,Visure,D02,Real time,1,21115,7,71
+5,83,Perimetro Immobiliare Persona??,Dossier Persona approfondito,Orchestratore,Visure,D02,Real time,1,21115,7,71
+5,84,Perimetro Dossier Persona??,Dossier Persona approfondito,Orchestratore,Visure,D02,Real time,1,21115,7,71
+4,85,Cartesio,ANAGRAFICA PERSONA - DATI ANAGRAFICI PRINCIPALI ,BR,Visure,D02,Real time,1,5929,2,16
+4,86,Cartesio,ANAGRAFICA PERSONA - DATI ANAGRAFICI ALTERNATIVI,BR,Visure,D02,Real time,1,5929,2,16
+4,87,Cartesio,ANAGRAFICA PERSONA - INDIRIZZI STORICI DI RESIDENZA/DOMICILIO RECUPERATI,BR,Visure,D02,Real time,1,5929,2,16
+4,88,Cartesio,TITOLARE CON QUOTA >25% PERSONA,BR,Visure,D02,Real time,1,9,0,00
+4,89,Cartesio,CARICHE/QUALIFICHE SOGGETTO,BR,Visure,D02,Real time,1,5929,2,16
+4,90,Cartesio,PATRIMONIO IMMOBILIARE,BR,Visure,D02,Real time,1,8,0,00
+4,91,Cartesio,MOVIMENTAZIONI IMMOBILIARI,BR,Visure,D02,Real time,1,0,0,00
+4,92,Cartesio,PROTESTI,BR,Visure,D02,Real time,1,5929,2,16
+4,93,Cartesio,POSSIBILI OMONIMIE PROTESTI,BR,Visure,D02,Real time,1,5929,2,16
+4,94,Cartesio,EVENTI DI CONSERVATORIA,BR,Visure,D02,Real time,1,5929,2,16
+4,95,Cartesio,FALLIMENTI E PROCEDURE SU IMPRESE CONNESSE SOGGETTO,BR,Visure,D02,Real time,1,5929,2,16
+4,96,Cartesio,Perimetro Dossier Persona??,BR,Visure,D02,Real time,1,5929,2,16
+4,97,Cartesio,Perimetro Immobiliare Persona??,BR,Visure,D02,Real time,1,5929,2,16
+5,98,ANAGRAFICA PERSONA - DATI ANAGRAFICI PRINCIPALI ,Dossier Persona ,Orchestratore,Visure,D02,Real time,1,5929,2,16
+5,99,ANAGRAFICA PERSONA - DATI ANAGRAFICI ALTERNATIVI,Dossier Persona ,Orchestratore,Visure,D02,Real time,1,5929,2,16
+5,100,ANAGRAFICA PERSONA - INDIRIZZI STORICI DI RESIDENZA/DOMICILIO RECUPERATI,Dossier Persona ,Orchestratore,Visure,D02,Real time,1,5929,2,16
+5,101,TITOLARE CON QUOTA >25% PERSONA,Dossier Persona ,Orchestratore,Visure,D02,Real time,1,9,0,00
+5,102,CARICHE/QUALIFICHE SOGGETTO,Dossier Persona ,Orchestratore,Visure,D02,Real time,1,5929,2,16
+5,103,PATRIMONIO IMMOBILIARE,Dossier Persona ,Orchestratore,Visure,D02,Real time,1,8,0,00
+5,104,MOVIMENTAZIONI IMMOBILIARI,Dossier Persona ,Orchestratore,Visure,D02,Real time,1,0,0,00
+5,105,PROTESTI,Dossier Persona ,Orchestratore,Visure,D02,Real time,1,5929,2,16
+5,106,POSSIBILI OMONIMIE PROTESTI,Dossier Persona ,Orchestratore,Visure,D02,Real time,1,5929,2,16
+5,107,EVENTI DI CONSERVATORIA,Dossier Persona ,Orchestratore,Visure,D02,Real time,1,5929,2,16
+5,108,FALLIMENTI E PROCEDURE SU IMPRESE CONNESSE SOGGETTO,Dossier Persona ,Orchestratore,Visure,D02,Real time,1,5929,2,16
+5,109,Perimetro Dossier Persona??,Dossier Persona ,Orchestratore,Visure,D02,Real time,1,5929,2,16
+5,110,Perimetro Immobiliare Persona??,Dossier Persona ,Orchestratore,Visure,D02,Real time,1,5929,2,16
+4,111,Cartesio,ANAGRAFICA PERSONA - DATI ANAGRAFICI PRINCIPALI ,BR,Visure,D02,Real time,1,1273,0,46
+4,112,Cartesio,ANAGRAFICA PERSONA - DATI ANAGRAFICI ALTERNATIVI,BR,Visure,D02,Real time,1,1273,0,46
+4,113,Cartesio,ANAGRAFICA PERSONA - INDIRIZZI STORICI DI RESIDENZA/DOMICILIO RECUPERATI,BR,Visure,D02,Real time,1,1273,0,46
+4,114,Cartesio,TITOLARE CON QUOTA >25% PERSONA,BR,Visure,D02,Real time,1,94,0,03
+4,115,Cartesio,CARICHE/QUALIFICHE SOGGETTO,BR,Visure,D02,Real time,1,1273,0,46
+4,116,Cartesio,PARTECIPAZIONI DA ARCHIVIO SOCI,BR,Visure,D02,Real time,1,1273,0,46
+4,117,Cartesio,PATRIMONIO IMMOBILIARE,BR,Visure,D02,Real time,1,26,0,01
+4,118,Cartesio,MOVIMENTAZIONI IMMOBILIARI,BR,Visure,D02,Real time,1,0,0,00
+4,119,Cartesio,PROTESTI,BR,Visure,D02,Real time,1,1273,0,46
+4,120,Cartesio,POSSIBILI OMONIMIE PROTESTI,BR,Visure,D02,Real time,1,1273,0,46
+4,121,Cartesio,EVENTI DI CONSERVATORIA,BR,Visure,D02,Real time,1,1273,0,46
+4,122,Cartesio,FALLIMENTI E PROCEDURE SU IMPRESE CONNESSE SOGGETTO,BR,Visure,D02,Real time,1,1273,0,46
+4,123,Cartesio,Perimetro Dossier Persona??,BR,Visure,D02,Real time,1,1273,0,46
+4,124,Cartesio,Perimetro Immobiliare Persona??,BR,Visure,D02,Real time,1,1273,0,46
+5,125,ANAGRAFICA PERSONA - DATI ANAGRAFICI PRINCIPALI ,Dossier Persona con Partecipazioni,Orchestratore,Visure,D02,Real time,1,1273,0,46
+5,126,ANAGRAFICA PERSONA - DATI ANAGRAFICI ALTERNATIVI,Dossier Persona con Partecipazioni,Orchestratore,Visure,D02,Real time,1,1273,0,46
+5,127,ANAGRAFICA PERSONA - INDIRIZZI STORICI DI RESIDENZA/DOMICILIO RECUPERATI,Dossier Persona con Partecipazioni,Orchestratore,Visure,D02,Real time,1,1273,0,46
+5,128,TITOLARE CON QUOTA >25% PERSONA,Dossier Persona con Partecipazioni,Orchestratore,Visure,D02,Real time,1,94,0,03
+5,129,CARICHE/QUALIFICHE SOGGETTO,Dossier Persona con Partecipazioni,Orchestratore,Visure,D02,Real time,1,1273,0,46
+5,130,PARTECIPAZIONI DA ARCHIVIO SOCI,Dossier Persona con Partecipazioni,Orchestratore,Visure,D02,Real time,1,1273,0,46
+5,131,PATRIMONIO IMMOBILIARE,Dossier Persona con Partecipazioni,Orchestratore,Visure,D02,Real time,1,26,0,01
+5,132,MOVIMENTAZIONI IMMOBILIARI,Dossier Persona con Partecipazioni,Orchestratore,Visure,D02,Real time,1,0,0,00
+5,133,PROTESTI,Dossier Persona con Partecipazioni,Orchestratore,Visure,D02,Real time,1,1273,0,46
+5,134,POSSIBILI OMONIMIE PROTESTI,Dossier Persona con Partecipazioni,Orchestratore,Visure,D02,Real time,1,1273,0,46
+5,135,EVENTI DI CONSERVATORIA,Dossier Persona con Partecipazioni,Orchestratore,Visure,D02,Real time,1,1273,0,46
+5,136,FALLIMENTI E PROCEDURE SU IMPRESE CONNESSE SOGGETTO,Dossier Persona con Partecipazioni,Orchestratore,Visure,D02,Real time,1,1273,0,46
+5,137,Perimetro Dossier Persona??,Dossier Persona con Partecipazioni,Orchestratore,Visure,D02,Real time,1,1273,0,46
+5,138,Perimetro Immobiliare Persona??,Dossier Persona con Partecipazioni,Orchestratore,Visure,D02,Real time,1,1273,0,46
+4,139,CARTESIO,Esponenti Cariche e Qualifiche in imprese connesse,BR,Visure,D02,Real time,1,2.762,
+4,140,CARTESIO,Soci - Cariche e Qualifiche in imprese connesse,BR,Visure,D02,Real time,1,2.762,
+4,141,CARTESIO,Informazioni Immobiliari -Movimentazioni Immobiliari (*),BR,Visure,D02,Real time,1,,
+4,142,CARTESIO,Informazioni Immobiliari - Patrimonio Immobiliari (*),BR,Visure,D02,Real time,1,,
+4,143,CARTESIO,PROTESTI,BR,Visure,D02,Real time,1,2.762,1,01
+4,144,CARTESIO,EVENTI DI CONSERVATORIA,BR,Visure,D02,Real time,1,2.762,1,01
+4,145,CARTESIO,Fallimenti e Procedure su Imprese connesse ad Esponenti/Soci,BR,Visure,D02,Real time,1,2.762,1,01
+4,146,CARTESIO,Perimetro di Controllo negativit…,BR,Visure,D02,Real time,1,2.762,1,01
+4,147,CARTESIO,Testata del Documento Dossier Impresa e DAOÿ,BR,Visure,D02,Real time,1,2.762,1,01
+4,148,CARTESIO,Sintesi - Dati Dimensionali,BR,Visure,D02,Real time,1,2.762,1,01
+4,149,CARTESIO,Dati Identificativi & Caratteristici Impresa,BR,Visure,D02,Real time,1,2.762,1,01
+4,150,CARTESIO,"Notizie Storiche Estratto o Variazioni:Trasferimenti d'azienda
+Fusioni, Scissioni e Subentri
+Cessazioni
+Liquidazioni, Procedure concorsuali
+Informazioni sulle Procedure Concorsuali
+Capitale Sociale
+Variazioni Stato Impresa
+Cambiamenti di Natura Giuridica
+Variazioni Fuori Provincia",BR,Visure,D02,Real time,1,2.762,1,01
+4,151,CARTESIO,Notizie Storiche Estratto o Variazioni:Liquidazioni, Fallimenti e Notizie sulle Procedure - Eventi di Crisi,BR,Visure,D02,Real time,1,2.762,1,01
+4,152,CARTESIO,Notizie Storiche Estratto o Variazioni,BR,Visure,D02,Real time,1,2.762,1,01
+4,153,CARTESIO,Notizie Storiche Estratto- Precedenti Cariche / Qualifiche,BR,Visure,D02,Real time,1,2.762,1,01
+4,154,CARTESIO,Titolari di Cariche o Qualifiche,BR,Visure,D02,Real time,1,2.762,1,01
+4,155,CARTESIO,Perimetro di controllo Immobiliare (*),BR,Visure,D02,Real time,1,,0,00
+4,156,CARTESIO,Certificazione di Qualit…,BR,Visure,D02,Real time,1,2.762,1,01
+4,157,CARTESIO,Attivit… Economica,BR,Visure,D02,Real time,1,2.762,1,01
+4,158,CARTESIO,Sistema di amministrazione e controllo,BR,Visure,D02,Real time,1,2.762,1,01
+4,159,CARTESIO,Collegio Sindacale,BR,Visure,D02,Real time,1,2.762,1,01
+4,160,CARTESIO,Albi, Ruoli e Licenze,BR,Visure,D02,Real time,1,2.762,1,01
+4,161,CARTESIO,Informazioni sullo Statuto -,BR,Visure,D02,Real time,1,2.762,1,01
+4,162,CARTESIO,Informazioni sullo Statuto,BR,Visure,D02,Real time,1,2.762,1,01
+4,163,CARTESIO,Sistema di Amministrazione e Controllo,BR,Visure,D02,Real time,1,2.762,1,01
+4,164,CARTESIO,Collegio Sindacale,BR,Visure,D02,Real time,1,2.762,1,01
+4,165,CARTESIO,Informazioni Patrimoniali e Finanziarie,BR,Visure,D02,Real time,1,2.762,1,01
+4,166,CARTESIO,Atti Ufficiali Depositati,BR,Visure,D02,Real time,1,2.762,1,01
+4,167,CARTESIO,Uffici/Unit… Locali Attive,BR,Visure,D02,Real time,1,2.762,1,01
+4,168,CARTESIO,Uffici/Unit… Locali Cessate,BR,Visure,D02,Real time,1,2.762,1,01
+4,169,CARTESIO,Informazioni costitutive,BR,Visure,D02,Real time,1,2.762,1,01
+4,170,CARTESIO,Informazioni costitutive,BR,Visure,D02,Real time,1,2.762,1,01
+4,171,CARTESIO,InformazioniSupplementari,BR,Visure,D02,Real time,1,2.762,1,01
+4,172,CARTESIO,Movimentazioni da Protocollo Ufficiale CCIAA,BR,Visure,D02,Real time,1,2.762,1,01
+4,173,CARTESIO,Notizie Storiche - Dettaglio,BR,Visure,D02,Real time,1,2.762,1,01
+4,174,CARTESIO,Notizie Storiche - Dettaglio,BR,Visure,D02,Real time,1,2.762,1,01
+5,175,Esponenti Cariche e Qualifiche in imprese connesse,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,176,Soci - Cariche e Qualifiche in imprese connesse,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,177,Informazioni Immobiliari -Movimentazioni Immobiliari (*),"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,,0,00
+5,178,Informazioni Immobiliari - Patrimonio Immobiliari (*),"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,,0,00
+5,179,PROTESTI,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,180,EVENTI DI CONSERVATORIA,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,181,Fallimenti e Procedure su Imprese connesse ad Esponenti/Soci,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,182,Perimetro di Controllo negativit…,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,183,Testata del Documento Dossier Impresa e DAOÿ,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,184,Sintesi - Dati Dimensionali,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,185,Dati Identificativi & Caratteristici Impresa,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,186,Notizie Storiche Estratto o Variazioni,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,187,Notizie Storiche Estratto o Variazioni,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,188,Notizie Storiche Estratto o Variazioni,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,189,Notizie Storiche Estratto- Precedenti Cariche / Qualifiche,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,190,Titolari di Cariche o Qualifiche,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,191,Perimetro di controllo Immobiliare (*),"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,,0,00
+5,192,Certificazione di Qualit…,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,193,Attivit… Economica,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,194,Sistema di amministrazione e controllo,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,195,Collegio Sindacale,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,196,Albi, Ruoli e Licenze,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,197,Informazioni sullo Statuto,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,198,Informazioni sullo Statuto,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,199,Sistema di Amministrazione e Controllo,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,200,Collegio Sindacale,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,201,Informazioni Patrimoniali e Finanziarie,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,202,Atti Ufficiali Depositati,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,203,Uffici/Unit… Locali Attive,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,204,Uffici/Unit… Locali Cessate,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,205,Informazioni costitutive,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,206,Informazioni costitutive,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,207,InformazioniSupplementari,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,208,Movimentazioni da Protocollo Ufficiale CCIAA,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,209,Notizie Storiche - Dettaglio,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+5,210,Notizie Storiche - Dettaglio,"QUICK REPORT PLUS
+(62001)",Orchestratore,Visure,D02,Real time,1,2.762,1,01
+4,211,Cartesio,Esponenti Cariche e Qualifiche in imprese connesse,BR,Visure,D02,Real time,1,438,0,16
+4,212,Cartesio,Soci - Cariche e Qualifiche in imprese connesse,BR,Visure,D02,Real time,1,438,0,16
+4,213,Cartesio,Informazioni Immobiliari -Movimentazioni Immobiliari (*),BR,Visure,D02,Real time,1,,0,00
+4,214,Cartesio,Informazioni Immobiliari - Patrimonio Immobiliari (*),BR,Visure,D02,Real time,1,,0,00
+4,215,Cartesio,PROTESTI,BR,Visure,D02,Real time,1,438,0,16
+4,216,Cartesio,EVENTI DI CONSERVATORIA,BR,Visure,D02,Real time,1,438,0,16
+4,217,Cartesio,Fallimenti e Procedure su Imprese connesse ad Esponenti/Soci,BR,Visure,D02,Real time,1,438,0,16
+4,218,Cartesio,Perimetro di Controllo negativit…,BR,Visure,D02,Real time,1,438,0,16
+4,219,Cartesio,Testata del Documento Dossier Impresa e DAOÿ,BR,Visure,D02,Real time,1,438,0,16
+4,220,Cartesio,Sintesi - Dati Dimensionali,BR,Visure,D02,Real time,1,438,0,16
+4,221,Cartesio,Dati Identificativi & Caratteristici Impresa,BR,Visure,D02,Real time,1,438,0,16
+4,222,Cartesio,"Notizie Storiche Estratto o Variazioni:Trasferimenti d'azienda
+Fusioni, Scissioni e Subentri
+Cessazioni
+Liquidazioni, Procedure concorsuali
+Informazioni sulle Procedure Concorsuali
+Capitale Sociale
+Variazioni Stato Impresa
+Cambiamenti di Natura Giuridica
+Variazioni Fuori Provincia",BR,Visure,D02,Real time,1,438,0,16
+4,223,Cartesio,Notizie Storiche Estratto o Variazioni:Liquidazioni, Fallimenti e Notizie sulle Procedure - Eventi di Crisi,BR,Visure,D02,Real time,1,438,0,16
+4,224,Cartesio,Titolari di Cariche o Qualifiche,BR,Visure,D02,Real time,1,438,0,16
+4,225,Cartesio,Perimetro di controllo Immobiliare (*),BR,Visure,D02,Real time,1,,0,00
+4,226,Cartesio,Certificazione di Qualit…,BR,Visure,D02,Real time,1,438,0,16
+4,227,Cartesio,Attivit… Economica,BR,Visure,D02,Real time,1,438,0,16
+4,228,Cartesio,Sistema di amministrazione e controllo,BR,Visure,D02,Real time,1,438,0,16
+4,229,Cartesio,Collegio Sindacale,BR,Visure,D02,Real time,1,438,0,16
+4,230,Cartesio,Albi, Ruoli e Licenze,BR,Visure,D02,Real time,1,438,0,16
+4,231,Cartesio,Informazioni sullo Statuto,BR,Visure,D02,Real time,1,438,0,16
+4,232,Cartesio,Informazioni sullo Statuto,BR,Visure,D02,Real time,1,438,0,16
+4,233,Cartesio,Sistema di Amministrazione e Controllo,BR,Visure,D02,Real time,1,438,0,16
+4,234,Cartesio,Collegio Sindacale,BR,Visure,D02,Real time,1,438,0,16
+4,235,Cartesio,Informazioni Patrimoniali e Finanziarie,BR,Visure,D02,Real time,1,438,0,16
+4,236,Cartesio,Atti Ufficiali Depositati,BR,Visure,D02,Real time,1,438,0,16
+4,237,Cartesio,Uffici/Unit… Locali Attive,BR,Visure,D02,Real time,1,438,0,16
+4,238,Cartesio,Uffici/Unit… Locali Cessate,BR,Visure,D02,Real time,1,438,0,16
+4,239,Cartesio,Informazioni costitutive,BR,Visure,D02,Real time,1,438,0,16
+4,240,Cartesio,Informazioni costitutive,BR,Visure,D02,Real time,1,438,0,16
+4,241,Cartesio,InformazioniSupplementari,BR,Visure,D02,Real time,1,438,0,16
+4,242,Cartesio,Movimentazioni da Protocollo Ufficiale CCIAA,BR,Visure,D02,Real time,1,438,0,16
+5,243,Esponenti Cariche e Qualifiche in imprese connesse,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,244,Soci - Cariche e Qualifiche in imprese connesse,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,245,Informazioni Immobiliari -Movimentazioni Immobiliari (*),"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,,0,00
+5,246,Informazioni Immobiliari - Patrimonio Immobiliari (*),"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,,0,00
+5,247,PROTESTI,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,248,EVENTI DI CONSERVATORIA,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,249,Fallimenti e Procedure su Imprese connesse ad Esponenti/Soci,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,250,Perimetro di Controllo negativit…,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,251,Testata del Documento Dossier Impresa e DAOÿ,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,252,Sintesi - Dati Dimensionali,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,253,Dati Identificativi & Caratteristici Impresa,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,254,"Notizie Storiche Estratto o Variazioni:Trasferimenti d'azienda
+Fusioni, Scissioni e Subentri
+Cessazioni
+Liquidazioni, Procedure concorsuali
+Informazioni sulle Procedure Concorsuali
+Capitale Sociale
+Variazioni Stato Impresa
+Cambiamenti di Natura Giuridica
+Variazioni Fuori Provincia","QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,255,Notizie Storiche Estratto o Variazioni:Liquidazioni, Fallimenti e Notizie sulle Procedure - Eventi di Crisi,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,256,Titolari di Cariche o Qualifiche,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,257,Perimetro di controllo Immobiliare (*),"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,,0,00
+5,258,Certificazione di Qualit…,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,259,Attivit… Economica,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,260,Sistema di amministrazione e controllo,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,261,Collegio Sindacale,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,262,Albi, Ruoli e Licenze,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,263,Informazioni sullo Statuto,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,264,Informazioni sullo Statuto,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,265,Sistema di Amministrazione e Controllo,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,266,Collegio Sindacale,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,267,Informazioni Patrimoniali e Finanziarie,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,268,Atti Ufficiali Depositati,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,269,Uffici/Unit… Locali Attive,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,270,Uffici/Unit… Locali Cessate,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,271,Informazioni costitutive,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,272,Informazioni costitutive,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,273,InformazioniSupplementari,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+5,274,Movimentazioni da Protocollo Ufficiale CCIAA,"QUICK REPORT PLUS - COFACE
+(62011)",Orchestratore,Visure,D02,Real time,1,438,0,16
+4,275,Cartesio,Esponenti Cariche e Qualifiche in imprese connesse,BR,Visure,D02,Real time,1,7.161,2,61
+4,276,Cartesio,Soci - Cariche e Qualifiche in imprese connesse,BR,Visure,D02,Real time,1,7.161,2,61
+4,277,Cartesio,Informazioni Immobiliari -Movimentazioni Immobiliari (*),BR,Visure,D02,Real time,1,,
+4,278,Cartesio,Informazioni Immobiliari - Patrimonio Immobiliari (*),BR,Visure,D02,Real time,1,,
+4,279,Cartesio,Protesti,BR,Visure,D02,Real time,1,7.161,2,61
+4,280,Cartesio,Pregiudizievoli,BR,Visure,D02,Real time,1,7.161,2,61
+4,281,Cartesio,Fallimenti e Procedure su Imprese connesse ad Esponenti/Soci,BR,Visure,D02,Real time,1,7.161,2,61
+4,282,Cartesio,Perimetro di Controllo negativit…,BR,Visure,D02,Real time,1,7.161,2,61
+4,283,Cartesio,Testata del Documento Dossier Impresa e DAOÿ,BR,Visure,D02,Real time,1,7.161,2,61
+4,284,Cartesio,Dati Identificativi & Caratteristici Impresa,BR,Visure,D02,Real time,1,7.161,2,61
+4,285,Cartesio,Notizie Storiche Estratto o Variazioni,BR,Visure,D02,Real time,1,7.161,2,61
+4,286,Cartesio,Notizie Storiche Estratto o Variazioni,BR,Visure,D02,Real time,1,7.161,2,61
+4,287,Cartesio,Notizie Storiche Estratto o Variazioni,BR,Visure,D02,Real time,1,7.161,2,61
+4,288,Cartesio,Notizie Storiche Estratto - Precedenti Cariche / Qualifiche,BR,Visure,D02,Real time,1,7.161,2,61
+4,289,Cartesio,Titolari di Cariche o Qualifiche,BR,Visure,D02,Real time,1,7.161,2,61
+4,290,Cartesio,Perimetro di controllo Immobiliare (*),BR,Visure,D02,Real time,1,,0,00
+4,291,Cartesio,Certificazione di Qualit…,BR,Visure,D02,Real time,1,7.161,2,61
+4,292,Cartesio,Attivit… Economica,BR,Visure,D02,Real time,1,7.161,2,61
+4,293,Cartesio,Sistema di amministrazione e controllo,BR,Visure,D02,Real time,1,7.161,2,61
+4,294,Cartesio,Collegio Sindacale,BR,Visure,D02,Real time,1,7.161,2,61
+4,295,Cartesio,Albi, Ruoli e Licenze,BR,Visure,D02,Real time,1,7.161,2,61
+4,296,Cartesio,Informazioni sullo Statuto,BR,Visure,D02,Real time,1,7.161,2,61
+4,297,Cartesio,Informazioni sullo Statuto,BR,Visure,D02,Real time,1,7.161,2,61
+4,298,Cartesio,Sistema di Amministrazione e Controllo,BR,Visure,D02,Real time,1,7.161,2,61
+4,299,Cartesio,Collegio Sindacale,BR,Visure,D02,Real time,1,7.161,2,61
+4,300,Cartesio,Informazioni Patrimoniali e Finanziarie,BR,Visure,D02,Real time,1,7.161,2,61
+4,301,Cartesio,Atti Ufficiali Depositati,BR,Visure,D02,Real time,1,7.161,2,61
+4,302,Cartesio,Uffici/Unit… Locali Attive,BR,Visure,D02,Real time,1,7.161,2,61
+4,303,Cartesio,Uffici/Unit… Locali Cessate,BR,Visure,D02,Real time,1,7.161,2,61
+4,304,Cartesio,Informazioni costitutive,BR,Visure,D02,Real time,1,7.161,2,61
+4,305,Cartesio,Informazioni costitutive,BR,Visure,D02,Real time,1,7.161,2,61
+4,306,Cartesio,InformazioniSupplementari,BR,Visure,D02,Real time,1,7.161,2,61
+4,307,Cartesio,Movimentazioni da Protocollo Ufficiale CCIAA,BR,Visure,D02,Real time,1,7.161,2,61
+4,308,Cartesio,Notizie Storiche - Dettaglio,BR,Visure,D02,Real time,1,7.161,2,61
+4,309,Cartesio,Notizie Storiche - Dettaglio,BR,Visure,D02,Real time,1,7.161,2,61
+5,310,Esponenti Cariche e Qualifiche in imprese connesse,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,311,Soci - Cariche e Qualifiche in imprese connesse,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,312,Informazioni Immobiliari -Movimentazioni Immobiliari (*),DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,,0,00
+5,313,Informazioni Immobiliari - Patrimonio Immobiliari (*),DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,,0,00
+5,314,Protesti,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,315,Pregiudizievoli,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,316,Fallimenti e Procedure su Imprese connesse ad Esponenti/Soci,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,317,Perimetro di Controllo negativit…,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,318,Testata del Documento Dossier Impresa e DAOÿ,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,319,Dati Identificativi & Caratteristici Impresa,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,320,Notizie Storiche Estratto o Variazioni,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,321,Notizie Storiche Estratto o Variazioni,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,322,Notizie Storiche Estratto o Variazioni,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,323,Notizie Storiche Estratto - Precedenti Cariche / Qualifiche,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,324,Titolari di Cariche o Qualifiche,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,325,Perimetro di controllo Immobiliare (*),DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,,0,00
+5,326,Certificazione di Qualit…,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,327,Attivit… Economica,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,328,Sistema di amministrazione e controllo,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,329,Collegio Sindacale,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,330,Albi, Ruoli e Licenze,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,331,Informazioni sullo Statuto,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,332,Informazioni sullo Statuto,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,333,Sistema di Amministrazione e Controllo,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,334,Collegio Sindacale,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,335,Informazioni Patrimoniali e Finanziarie,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,336,Atti Ufficiali Depositati,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,337,Uffici/Unit… Locali Attive,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,338,Uffici/Unit… Locali Cessate,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,339,Informazioni costitutive,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,340,Informazioni costitutive,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,341,InformazioniSupplementari,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,342,Movimentazioni da Protocollo Ufficiale CCIAA,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,343,Notizie Storiche - Dettaglio,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+5,344,Notizie Storiche - Dettaglio,DOSSIER TOP (6002),Orchestratore,Visure,D02,Real time,1,7.161,2,61
+4,345,Cartesio,Esponenti Cariche e Qualifiche in imprese connesse,BR,Visure,D02,Real time,1,649,0,24
+4,346,Cartesio,Informazioni Immobiliari -Movimentazioni Immobiliari (*),BR,Visure,D02,Real time,1,,0,00
+4,347,Cartesio,Informazioni Immobiliari - Patrimonio Immobiliari (*),BR,Visure,D02,Real time,1,,0,00
+4,348,Cartesio,Protesti,BR,Visure,D02,Real time,1,649,0,24
+4,349,Cartesio,Pregiudizievoli,BR,Visure,D02,Real time,1,649,0,24
+4,350,Cartesio,Fallimenti e Procedure su Imprese connesse ad Esponenti/Soci,BR,Visure,D02,Real time,1,649,0,24
+4,351,Cartesio,Perimetro di Controllo negativit…,BR,Visure,D02,Real time,1,649,0,24
+4,352,Cartesio,Testata del Documento Dossier Impresa e DAOÿ,BR,Visure,D02,Real time,1,649,0,24
+4,353,Cartesio,Dati Identificativi & Caratteristici Impresa,BR,Visure,D02,Real time,1,649,0,24
+4,354,Cartesio,Notizie Storiche Estratto o Variazioni,BR,Visure,D02,Real time,1,649,0,24
+4,355,Cartesio,Notizie Storiche Estratto o Variazioni,BR,Visure,D02,Real time,1,649,0,24
+4,356,Cartesio,Notizie Storiche Estratto o Variazioni,BR,Visure,D02,Real time,1,649,0,24
+4,357,Cartesio,Notizie Storiche Estratto,BR,Visure,D02,Real time,1,649,0,24
+4,358,Cartesio,Titolari di Cariche o Qualifiche,BR,Visure,D02,Real time,1,649,0,24
+4,359,Cartesio,Perimetro di controllo Immobiliare (*),BR,Visure,D02,Real time,1,,0,00
+4,360,Cartesio,Certificazione di Qualit…,BR,Visure,D02,Real time,1,649,0,24
+4,361,Cartesio,Attivit… Economica,BR,Visure,D02,Real time,1,649,0,24
+4,362,Cartesio,Sistema di amministrazione e controllo,BR,Visure,D02,Real time,1,649,0,24
+4,363,Cartesio,Collegio Sindacale,BR,Visure,D02,Real time,1,649,0,24
+4,364,Cartesio,Albi, Ruoli e Licenze,BR,Visure,D02,Real time,1,649,0,24
+4,365,Cartesio,Informazioni sullo Statuto,BR,Visure,D02,Real time,1,649,0,24
+4,366,Cartesio,Informazioni sullo Statuto,BR,Visure,D02,Real time,1,649,0,24
+4,367,Cartesio,Sistema di Amministrazione e Controllo,BR,Visure,D02,Real time,1,649,0,24
+4,368,Cartesio,Collegio Sindacale,BR,Visure,D02,Real time,1,649,0,24
+4,369,Cartesio,Informazioni Patrimoniali e Finanziarie,BR,Visure,D02,Real time,1,649,0,24
+4,370,Cartesio,Atti Ufficiali Depositati,BR,Visure,D02,Real time,1,649,0,24
+4,371,Cartesio,Uffici/Unit… Locali Attive,BR,Visure,D02,Real time,1,649,0,24
+4,372,Cartesio,Uffici/Unit… Locali Cessate,BR,Visure,D02,Real time,1,649,0,24
+4,373,Cartesio,Informazioni costitutive,BR,Visure,D02,Real time,1,649,0,24
+4,374,Cartesio,Informazioni costitutive,BR,Visure,D02,Real time,1,649,0,24
+4,375,Cartesio,InformazioniSupplementari,BR,Visure,D02,Real time,1,649,0,24
+4,376,Cartesio,Movimentazioni da Protocollo Ufficiale CCIAA,BR,Visure,D02,Real time,1,649,0,24
+4,377,Cartesio,Notizie Storiche - Dettaglio,BR,Visure,D02,Real time,1,649,0,24
+4,378,Cartesio,Notizie Storiche - Dettaglio,BR,Visure,D02,Real time,1,649,0,24
+5,379,Esponenti Cariche e Qualifiche in imprese connesse,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,380,Informazioni Immobiliari -Movimentazioni Immobiliari (*),Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,381,Informazioni Immobiliari - Patrimonio Immobiliari (*),Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,382,Protesti,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,383,Pregiudizievoli,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,384,Fallimenti e Procedure su Imprese connesse ad Esponenti/Soci,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,385,Perimetro di Controllo negativit…,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,386,Testata del Documento Dossier Impresa e DAOÿ,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,387,Dati Identificativi & Caratteristici Impresa,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,388,Notizie Storiche Estratto o Variazioni,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,389,Notizie Storiche Estratto o Variazioni,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,390,Notizie Storiche Estratto o Variazioni,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,391,Notizie Storiche Estratto,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,392,Titolari di Cariche o Qualifiche,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,393,Perimetro di controllo Immobiliare (*),Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,,0,00
+5,394,Certificazione di Qualit…,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,395,Attivit… Economica,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,396,Sistema di amministrazione e controllo,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,397,Collegio Sindacale,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,398,Albi, Ruoli e Licenze,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,399,Informazioni sullo Statuto,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,400,Informazioni sullo Statuto,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,401,Sistema di Amministrazione e Controllo,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,402,Collegio Sindacale,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,403,Informazioni Patrimoniali e Finanziarie,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,404,Atti Ufficiali Depositati,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,405,Uffici/Unit… Locali Attive,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,406,Uffici/Unit… Locali Cessate,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,407,Informazioni costitutive,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,408,Informazioni costitutive,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,409,InformazioniSupplementari,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,410,Movimentazioni da Protocollo Ufficiale CCIAA,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,411,Notizie Storiche - Dettaglio,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+5,412,Notizie Storiche - Dettaglio,Dossier Approfondito con Soci (62005),Orchestratore,Visure,D02,Real time,1,649,0,24
+4,413,Cartesio,Esponenti Cariche e Qualifiche in imprese connesse,BR,Visure,D02,Real time,1,363,0,13
+4,414,Cartesio,Informazioni Immobiliari -Movimentazioni Immobiliari (*),BR,Visure,D02,Real time,1,,
+4,415,Cartesio,Informazioni Immobiliari - Patrimonio Immobiliari (*),BR,Visure,D02,Real time,1,,
+4,416,Cartesio,Protesti,BR,Visure,D02,Real time,1,363,0,13
+4,417,Cartesio,Pregiudizievoli,BR,Visure,D02,Real time,1,363,0,13
+4,418,Cartesio,Fallimenti e Procedure su Imprese connesse ad Esponenti/Soci,BR,Visure,D02,Real time,1,363,0,13
+4,419,Cartesio,Perimetro di Controllo negativit…,BR,Visure,D02,Real time,1,363,0,13
+4,420,Cartesio,Testata del Documento Dossier Impresa e DAOÿ,BR,Visure,D02,Real time,1,363,0,13
+4,421,Cartesio,Dati Identificativi & Caratteristici Impresa,BR,Visure,D02,Real time,1,363,0,13
+4,422,Cartesio,Notizie Storiche Estratto o Variazioni,BR,Visure,D02,Real time,1,363,0,13
+4,423,Cartesio,Notizie Storiche Estratto o Variazioni,BR,Visure,D02,Real time,1,363,0,13
+4,424,Cartesio,Notizie Storiche Estratto o Variazioni,BR,Visure,D02,Real time,1,363,0,13
+4,425,Cartesio,Notizie Storiche Estratto,BR,Visure,D02,Real time,1,363,0,13
+4,426,Cartesio,Titolari di Cariche o Qualifiche,BR,Visure,D02,Real time,1,363,0,13
+4,427,Cartesio,Perimetro di controllo Immobiliare (*),BR,Visure,D02,Real time,1,,
+4,428,Cartesio,Certificazione di Qualit…,BR,Visure,D02,Real time,1,363,0,13
+4,429,Cartesio,Attivit… Economica,BR,Visure,D02,Real time,1,363,0,13
+4,430,Cartesio,Sistema di amministrazione e controllo,BR,Visure,D02,Real time,1,363,0,13
+4,431,Cartesio,Collegio Sindacale,BR,Visure,D02,Real time,1,363,0,13
+4,432,Cartesio,Albi, Ruoli e Licenze,BR,Visure,D02,Real time,1,363,0,13
+4,433,Cartesio,Informazioni sullo Statuto,BR,Visure,D02,Real time,1,363,0,13
+4,434,Cartesio,Informazioni sullo Statuto,BR,Visure,D02,Real time,1,363,0,13
+4,435,Cartesio,Sistema di Amministrazione e Controllo,BR,Visure,D02,Real time,1,363,0,13
+4,436,Cartesio,Collegio Sindacale,BR,Visure,D02,Real time,1,363,0,13
+4,437,Cartesio,Informazioni Patrimoniali e Finanziarie,BR,Visure,D02,Real time,1,363,0,13
+4,438,Cartesio,Atti Ufficiali Depositati,BR,Visure,D02,Real time,1,363,0,13
+4,439,Cartesio,Uffici/Unit… Locali Attive,BR,Visure,D02,Real time,1,363,0,13
+4,440,Cartesio,Uffici/Unit… Locali Cessate,BR,Visure,D02,Real time,1,363,0,13
+4,441,Cartesio,Informazioni costitutive,BR,Visure,D02,Real time,1,363,0,13
+4,442,Cartesio,Informazioni costitutive,BR,Visure,D02,Real time,1,363,0,13
+4,443,Cartesio,InformazioniSupplementari,BR,Visure,D02,Real time,1,363,0,13
+4,444,Cartesio,Movimentazioni da Protocollo Ufficiale CCIAA,BR,Visure,D02,Real time,1,363,0,13
+4,445,Cartesio,Notizie Storiche - Dettaglio,BR,Visure,D02,Real time,1,363,0,13
+4,446,Cartesio,Notizie Storiche - Dettaglio,BR,Visure,D02,Real time,1,363,0,13
+5,447,Esponenti Cariche e Qualifiche in imprese connesse,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,448,Informazioni Immobiliari -Movimentazioni Immobiliari (*),Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,449,Informazioni Immobiliari - Patrimonio Immobiliari (*),Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,450,Protesti,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,451,Pregiudizievoli,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,452,Fallimenti e Procedure su Imprese connesse ad Esponenti/Soci,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,453,Perimetro di Controllo negativit…,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,454,Testata del Documento Dossier Impresa e DAOÿ,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,455,Dati Identificativi & Caratteristici Impresa,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,456,Notizie Storiche Estratto o Variazioni,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,457,Notizie Storiche Estratto o Variazioni,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,458,Notizie Storiche Estratto o Variazioni,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,459,Notizie Storiche Estratto,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,460,Titolari di Cariche o Qualifiche,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,461,Perimetro di controllo Immobiliare (*),Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,,
+5,462,Certificazione di Qualit…,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,463,Attivit… Economica,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,464,Sistema di amministrazione e controllo,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,465,Collegio Sindacale,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,466,Albi, Ruoli e Licenze,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,467,Informazioni sullo Statuto,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,468,Informazioni sullo Statuto,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,469,Sistema di Amministrazione e Controllo,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,470,Collegio Sindacale,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,471,Informazioni Patrimoniali e Finanziarie,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,472,Atti Ufficiali Depositati,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,473,Uffici/Unit… Locali Attive,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,474,Uffici/Unit… Locali Cessate,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,475,Informazioni costitutive,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,476,Informazioni costitutive,Dossier Approfondito  62006,Orchestratore,Visure,D02,Real time,1,363,0,13
+5,477,InformazioniSupplementari,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,478,Movimentazioni da Protocollo Ufficiale CCIAA,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,479,Notizie Storiche - Dettaglio,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+5,480,Notizie Storiche - Dettaglio,Dossier Approfondito  (62006),Orchestratore,Visure,D02,Real time,1,363,0,13
+4,481,Cartesio,Esponenti Cariche e Qualifiche in imprese connesse,BR,Visure,D02,Real time,1,2.223,0,81
+4,482,Cartesio,Informazioni Immobiliari -Movimentazioni Immobiliari (*),BR,Visure,D02,Real time,1,,0,00
+4,483,Cartesio,Informazioni Immobiliari - Patrimonio Immobiliari (*),BR,Visure,D02,Real time,1,,0,00
+4,484,Cartesio,Protesti,BR,Visure,D02,Real time,1,2.223,0,81
+4,485,Cartesio,Pregiudizievoli,BR,Visure,D02,Real time,1,2.223,0,81
+4,486,Cartesio,Fallimenti e Procedure su Imprese connesse ad Esponenti/Soci,BR,Visure,D02,Real time,1,2.223,0,81
+4,487,Cartesio,Perimetro di Controllo negativit…,BR,Visure,D02,Real time,1,2.223,0,81
+4,488,Cartesio,Testata del Documento Dossier Impresa e DAOÿ,BR,Visure,D02,Real time,1,2.223,0,81
+4,489,Cartesio,Dati Identificativi & Caratteristici Impresa,BR,Visure,D02,Real time,1,2.223,0,81
+4,490,Cartesio,Notizie Storiche Estratto o Variazioni,BR,Visure,D02,Real time,1,2.223,0,81
+4,491,Cartesio,Notizie Storiche Estratto o Variazioni,BR,Visure,D02,Real time,1,2.223,0,81
+4,492,Cartesio,Titolari di Cariche o Qualifiche,BR,Visure,D02,Real time,1,2.223,0,81
+4,493,Cartesio,Perimetro di controllo Immobiliare,BR,Visure,D02,Real time,1,2.223,0,81
+4,494,Cartesio,Certificazione di Qualit…,BR,Visure,D02,Real time,1,2.223,0,81
+4,495,Cartesio,Attivit… Economica,BR,Visure,D02,Real time,1,2.223,0,81
+4,496,Cartesio,Sistema di amministrazione e controllo,BR,Visure,D02,Real time,1,2.223,0,81
+4,497,Cartesio,Collegio Sindacale,BR,Visure,D02,Real time,1,2.223,0,81
+4,498,Cartesio,Albi, Ruoli e Licenze,BR,Visure,D02,Real time,1,2.223,0,81
+4,499,Cartesio,Informazioni sullo Statuto,BR,Visure,D02,Real time,1,2.223,0,81
+4,500,Cartesio,Sistema di Amministrazione e Controllo,BR,Visure,D02,Real time,1,2.223,0,81
+4,501,Cartesio,Collegio Sindacale,BR,Visure,D02,Real time,1,2.223,0,81
+4,502,Cartesio,Informazioni Patrimoniali e Finanziarie,BR,Visure,D02,Real time,1,2.223,0,81
+4,503,Cartesio,Atti Ufficiali Depositati,BR,Visure,D02,Real time,1,2.223,0,81
+4,504,Cartesio,Uffici/Unit… Locali Attive,BR,Visure,D02,Real time,1,2.223,0,81
+4,505,Cartesio,Uffici/Unit… Locali Cessate,BR,Visure,D02,Real time,1,2.223,0,81
+4,506,Cartesio,Informazioni costitutive,BR,Visure,D02,Real time,1,2.223,0,81
+4,507,Cartesio,Informazioni costitutive,BR,Visure,D02,Real time,1,2.223,0,81
+4,508,Cartesio,InformazioniSupplementari,BR,Visure,D02,Real time,1,2.223,0,81
+4,509,Cartesio,Movimentazioni da Protocollo Ufficiale CCIAA,BR,Visure,D02,Real time,1,2.223,0,81
+5,510,Esponenti Cariche e Qualifiche in imprese connesse,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,511,Informazioni Immobiliari -Movimentazioni Immobiliari (*),Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,,0,00
+5,512,Informazioni Immobiliari - Patrimonio Immobiliari (*),Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,,0,00
+5,513,Protesti,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,514,Pregiudizievoli,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,515,Fallimenti e Procedure su Imprese connesse ad Esponenti/Soci,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,516,Perimetro di Controllo negativit…,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,517,Testata del Documento Dossier Impresa e DAOÿ,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,518,Dati Identificativi & Caratteristici Impresa,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,519,Notizie Storiche Estratto o Variazioni,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,520,Notizie Storiche Estratto o Variazioni,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,521,Titolari di Cariche o Qualifiche,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,522,Perimetro di controllo Immobiliare,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,523,Certificazione di Qualit…,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,524,Attivit… Economica,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,525,Sistema di amministrazione e controllo,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,526,Collegio Sindacale,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,527,Albi, Ruoli e Licenze,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,528,Informazioni sullo Statuto,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,529,Sistema di Amministrazione e Controllo,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,530,Collegio Sindacale,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,531,Informazioni Patrimoniali e Finanziarie,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,532,Atti Ufficiali Depositati,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,533,Uffici/Unit… Locali Attive,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,534,Uffici/Unit… Locali Cessate,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,535,Informazioni costitutive,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,536,Informazioni costitutive,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,537,InformazioniSupplementari,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+5,538,Movimentazioni da Protocollo Ufficiale CCIAA,Dossier con Soci ed RSFI (62003),Orchestratore,Visure,D02,Real time,1,2.223,0,81
+4,539,Cartesio,Informazioni Immobiliari -Movimentazioni Immobiliari (*),BR,Visure,D02,Real time,1,,0,00
+4,540,Cartesio,Informazioni Immobiliari - Patrimonio Immobiliari (*),BR,Visure,D02,Real time,1,,0,00
+4,541,Cartesio,Protesti,BR,Visure,D02,Real time,1,2.042,0,75
+4,542,Cartesio,Pregiudizievoli,BR,Visure,D02,Real time,1,2.042,0,75
+4,543,Cartesio,Fallimenti e Procedure su Imprese connesse ad Esponenti/Soci,BR,Visure,D02,Real time,1,2.042,0,75
+4,544,Cartesio,Perimetro di Controllo negativit…,BR,Visure,D02,Real time,1,2.042,0,75
+4,545,Cartesio,Testata del Documento Dossier Impresa e DAOÿ,BR,Visure,D02,Real time,1,2.042,0,75
+4,546,Cartesio,Dati Identificativi & Caratteristici Impresa,BR,Visure,D02,Real time,1,2.042,0,75
+4,547,Cartesio,Notizie Storiche Estratto o Variazioni,BR,Visure,D02,Real time,1,2.042,0,75
+4,548,Cartesio,Notizie Storiche Estratto o Variazioni,BR,Visure,D02,Real time,1,2.042,0,75
+4,549,Cartesio,Titolari di Cariche o Qualifiche,BR,Visure,D02,Real time,1,2.042,0,75
+4,550,Cartesio,Perimetro di controllo Immobiliare (*),BR,Visure,D02,Real time,1,,0,00
+4,551,Cartesio,Certificazione di Qualit…,BR,Visure,D02,Real time,1,2.042,0,75
+4,552,Cartesio,Attivit… Economica,BR,Visure,D02,Real time,1,2.042,0,75
+4,553,Cartesio,Sistema di amministrazione e controllo,BR,Visure,D02,Real time,1,2.042,0,75
+4,554,Cartesio,Collegio Sindacale,BR,Visure,D02,Real time,1,2.042,0,75
+4,555,Cartesio,Albi, Ruoli e Licenze,BR,Visure,D02,Real time,1,2.042,0,75
+4,556,Cartesio,Informazioni sullo Statuto,BR,Visure,D02,Real time,1,2.042,0,75
+4,557,Cartesio,Sistema di Amministrazione e Controllo,BR,Visure,D02,Real time,1,2.042,0,75
+4,558,Cartesio,Collegio Sindacale,BR,Visure,D02,Real time,1,2.042,0,75
+4,559,Cartesio,Informazioni Patrimoniali e Finanziarie,BR,Visure,D02,Real time,1,2.042,0,75
+4,560,Cartesio,Atti Ufficiali Depositati,BR,Visure,D02,Real time,1,2.042,0,75
+4,561,Cartesio,Uffici/Unit… Locali Attive,BR,Visure,D02,Real time,1,2.042,0,75
+4,562,Cartesio,Uffici/Unit… Locali Cessate,BR,Visure,D02,Real time,1,2.042,0,75
+4,563,Cartesio,Informazioni costitutive,BR,Visure,D02,Real time,1,2.042,0,75
+4,564,Cartesio,Informazioni costitutive,BR,Visure,D02,Real time,1,2.042,0,75
+4,565,Cartesio,InformazioniSupplementari,BR,Visure,D02,Real time,1,2.042,0,75
+4,566,Cartesio,Movimentazioni da Protocollo Ufficiale CCIAA,BR,Visure,D02,Real time,1,2.042,0,75
+5,567,Informazioni Immobiliari -Movimentazioni Immobiliari (*),Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,,0,00
+5,568,Informazioni Immobiliari - Patrimonio Immobiliari (*),Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,,0,00
+5,569,Protesti,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,570,Pregiudizievoli,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,571,Fallimenti e Procedure su Imprese connesse ad Esponenti/Soci,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,572,Perimetro di Controllo negativit…,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,573,Testata del Documento Dossier Impresa e DAOÿ,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,574,Dati Identificativi & Caratteristici Impresa,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,575,Notizie Storiche Estratto o Variazioni,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,576,Notizie Storiche Estratto o Variazioni,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,577,Titolari di Cariche o Qualifiche,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,578,Perimetro di controllo Immobiliare (*),Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,,0,00
+5,579,Certificazione di Qualit…,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,580,Attivit… Economica,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,581,Sistema di amministrazione e controllo,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,582,Collegio Sindacale,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,583,Albi, Ruoli e Licenze,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,584,Informazioni sullo Statuto,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,585,Sistema di Amministrazione e Controllo,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,586,Collegio Sindacale,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,587,Informazioni Patrimoniali e Finanziarie,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,588,Atti Ufficiali Depositati,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,589,Uffici/Unit… Locali Attive,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,590,Uffici/Unit… Locali Cessate,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,591,Informazioni costitutive,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,592,Informazioni costitutive,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,593,InformazioniSupplementari,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+5,594,Movimentazioni da Protocollo Ufficiale CCIAA,Dossier RSFI (62004),Orchestratore,Visure,D02,Real time,1,2.042,0,75
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

@@ -1,0 +1,93 @@
+Idnodo,Label,Type,Category,Geo
+ALBI PROFESSIONALI SOPPRESSI,Sezione,,,
+Albi, Ruoli e Licenze,Sezione,,,
+ANAGRAFICA PERSONA - DATI ANAGRAFICI ALTERNATIVI,Sezione,,,
+ANAGRAFICA PERSONA - DATI ANAGRAFICI PRINCIPALI ,Sezione,,,
+ANAGRAFICA PERSONA - INDIRIZZI STORICI DI RESIDENZA/DOMICILIO RECUPERATI,Sezione,,,
+Arpa,Database,Oracle,NUFA,PD
+Atti Ufficiali Depositati,Sezione,,,
+Attivit… Economica,Sezione,,,
+Basic,Prodotto,,,
+BICE,Database,Oracle,BIRI,PD
+BIRI,Database,Oracle,BIRI,PD
+C5,Piattaforma,Web,WebApplication,
+CARICHE/QUALIFICHE SOGGETTO,Sezione,,,
+Cart,Database,Oracle,ORA8,PD
+Cartesio,Piattaforma,Web,WebApplication,
+CCS,Piattaforma,Web,WebApplication,
+Certificazione di Qualit…,Sezione,,,
+CGR,Prodotto,,,
+CGRP,Prodotto,,,
+Client Mondo,Piattaforma,Web,WebApplication,
+Cloud,Database,,,
+Collegio Sindacale,Sezione,,,
+Dati Identificativi & Caratteristici Impresa,Sezione,,,
+Dossier Approfondito,Prodotto,,,
+Dossier Approfondito con Soci,Prodotto,,,
+Dossier con Soci ed RSFI ,Prodotto,,,
+Dossier Persona ,Prodotto,,,
+Dossier Persona approfondito,Prodotto,,,
+Dossier Persona con Partecipazioni,Prodotto,,,
+Dossier RSFI,Prodotto,,,
+DOSSIER TOP,Prodotto,,,
+Esponenti Cariche e Qualifiche in imprese connesse,Sezione,,,
+EVENTI DI CONSERVATORIA,Sezione,,,
+Fallimenti,Database,Oracle,NUFA,PD
+Fallimenti e Procedure su Imprese connesse ad Esponenti/Soci,Sezione,,,
+FALLIMENTI E PROCEDURE SU IMPRESE CONNESSE SOGGETTO,Sezione,,,
+Graph4you,Prodotto,,,
+Hadoop,Database,"Himpala, Hive",,
+Infocamere,Fornitore,,,
+Informazioni costitutive,Sezione,,,
+Informazioni Immobiliari - Patrimonio Immobiliari (*),Sezione,,,
+Informazioni Immobiliari -Movimentazioni Immobiliari (*),Sezione,,,
+Informazioni Patrimoniali e Finanziarie,Sezione,,,
+Informazioni sullo Statuto -,Sezione,,,
+InformazioniSupplementari,Sezione,,,
+Kosmos,Database,Oracle,Synth,PD
+Mondo,Database,Oracle,,PD
+Mondo3,Piattaforma,Web,WebApplication,
+Mondo4,Piattaforma,Web,WebApplication,
+MondoP,Prodotto,,,
+MongoDB,Prodotto,MongoDB,,
+Monitoraggio Corporate,Prodotto,,,
+Movimentazioni da Protocollo Ufficiale CCIAA,Sezione,,,
+MOVIMENTAZIONI IMMOBILIARI,Sezione,,,
+Nemesi,Database,Oracle,DU,PD
+Neo4J  ,Database,NoSQL,,Cloud Amazonÿ??
+Notizie Storiche - Dettaglio,Sezione,,,
+Notizie Storiche Estratto,Sezione,,,
+Notizie Storiche Estratto - Precedenti Cariche / Qualifiche,Sezione,,,
+Notizie Storiche Estratto o Variazioni,Sezione,,,
+nTabula,Database,,,PD
+PARTECIPAZIONI DA ARCHIVIO SOCI,Sezione,,,
+PATRIMONIO IMMOBILIARE,Sezione,,,
+People,,,,
+Perimetro di controllo Immobiliare,Sezione,,,
+Perimetro di Controllo negativit…,Sezione,,,
+Perimetro Dossier Persona??,Sezione,,,
+Perimetro Immobiliare Persona??,Sezione,,,
+POSSIBILI OMONIMIE PROTESTI,Sezione,,,
+Pragma,Database,Oracle,Synth,PD
+Pregiudizievoli,Sezione,,,
+Prospetto,Prodotto,,,
+PROTESTI,Sezione,,,
+QUICK REPORT PLUS,Prodotto,,,
+R3,Applicativo,,,
+RIC,Database,Oracle,,PD
+Sintesi - Dati Dimensionali,Sezione,,,
+Sistema di amministrazione e controllo,Sezione,,,
+Soccer,Database,Oracle,NUFA,PD
+Soci - Cariche e Qualifiche in imprese connesse,Sezione,,,
+Solr,Database,NoSQL,,PD
+Spaziodati,Database- Fornitore,,,
+Tabula,Database,MongoDb,,PD
+Teradata,Database,Teradata,,PD
+Testata del Documento Dossier Impresa e DAOÿ,Sezione,,,
+Thesis,Database,Oracle,Synth,PD
+TITOLARE CON QUOTA >25% PERSONA,Sezione,,,
+Titolari di Cariche o Qualifiche,Sezione,,,
+Uffici/Unit… Locali Attive,Sezione,,,
+Uffici/Unit… Locali Cessate,Sezione,,,
+UGNA,Database,Oracle,ORA8,PD
+Vac,Database,Oracle,,PD
