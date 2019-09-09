@@ -80,8 +80,7 @@ Sistema di amministrazione e controllo,Sezione,,,
 Soccer,Database,Oracle,NUFA,PD
 Soci - Cariche e Qualifiche in imprese connesse,Sezione,,,
 Solr,Database,NoSQL,,PD
-Spaziodati,Database,,,
-Spaziodati,Fornitore,,,
+Spaziodati,"Database,Fornitore",,,
 Tabula,Database,MongoDb,,PD
 Teradata,Database,Teradata,,PD
 Testata del Documento Dossier Impresa e DAO,Sezione,,,
