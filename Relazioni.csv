@@ -148,7 +148,7 @@ Livello,Prog.,startNode,endNode,Relazione,AmbitoCDC,Aggiornamento,Day,Volumi,Pes
 4,148,Cartesio,Sintesi - Dati Dimensionali,BR,D02,Real time,1,2.762,"1,01"
 4,149,Cartesio,Dati Identificativi & Caratteristici Impresa,BR,D02,Real time,1,2.762,"1,01"
 4,150,Cartesio,Notizie Storiche Estratto o Variazioni:Trasferimenti d'azienda,BR,D02,Real time,1,2.762,"1,01"
-4,151,Cartesio,Notizie Storiche Estratto o Variazioni:Liquidazioni, Fallimenti,BR,D02,Real time,1,2.762,"1,01"
+4,151,Cartesio,Notizie Storiche Estratto o Variazioni:"Liquidazioni, Fallimenti",BR,D02,Real time,1,2.762,"1,01"
 4,152,Cartesio,Notizie Storiche Estratto o Variazioni,BR,D02,Real time,1,2.762,"1,01"
 4,153,Cartesio,Notizie Storiche Estratto- Precedenti Cariche / Qualifiche,BR,D02,Real time,1,2.762,"1,01"
 4,154,Cartesio,Titolari di Cariche o Qualifiche,BR,D02,Real time,1,2.762,"1,01"
