@@ -292,7 +292,7 @@ Livello,Prog.,startNode,endNode,Relazione,AmbitoCDC,Aggiornamento,Day,Volumi,Pes
 4,292,Cartesio,Attività Economica,BR,D02,Real time,1,7.161,"2,61"
 4,293,Cartesio,Sistema di amministrazione e controllo,BR,D02,Real time,1,7.161,"2,61"
 4,294,Cartesio,Collegio Sindacale,BR,D02,Real time,1,7.161,"2,61"
-4,295,Cartesio,Albi, Ruoli e Licenze,BR,D02,Real time,1,7.161,"2,61"
+4,295,Cartesio,"Albi, Ruoli e Licenze",BR,D02,Real time,1,7.161,"2,61"
 4,296,Cartesio,Informazioni sullo Statuto,BR,D02,Real time,1,7.161,"2,61"
 4,297,Cartesio,Informazioni sullo Statuto,BR,D02,Real time,1,7.161,"2,61"
 4,298,Cartesio,Sistema di Amministrazione e Controllo,BR,D02,Real time,1,7.161,"2,61"
