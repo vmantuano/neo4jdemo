@@ -220,7 +220,7 @@ Livello,Prog.,startNode,endNode,Relazione,AmbitoCDC,Aggiornamento,Day,Volumi,Pes
 4,220,Cartesio,Sintesi - Dati Dimensionali,BR,D02,Real time,1,438,"0,16"
 4,221,Cartesio,Dati Identificativi & Caratteristici Impresa,BR,D02,Real time,1,438,"0,16"
 4,222,Cartesio,Notizie Storiche Estratto o Variazioni:Trasferimenti d'azienda,BR,D02,Real time,1,438,"0,16"
-4,223,Cartesio,Notizie Storiche Estratto o Variazioni:Liquidazioni, Fallimenti,BR,D02,Real time,1,438,"0,16"
+4,223,Cartesio,"Notizie Storiche Estratto o Variazioni:Liquidazioni, Fallimenti",BR,D02,Real time,1,438,"0,16"
 4,224,Cartesio,Titolari di Cariche o Qualifiche,BR,D02,Real time,1,438,"0,16"
 4,225,Cartesio,Perimetro di controllo Immobiliare,BR,D02,Real time,1,,0
 4,226,Cartesio,Certificazione di Qualità,BR,D02,Real time,1,438,"0,16"
