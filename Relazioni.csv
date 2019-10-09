@@ -252,7 +252,7 @@ Livello,Prog.,startNode,endNode,Relazione,AmbitoCDC,Aggiornamento,Day,Volumi,Pes
 5,252,Sintesi - Dati Dimensionali,QUICK REPORT PLUS - COFACE (62011),Orchestratore,D02,Real time,1,438,"0,16"
 5,253,Dati Identificativi & Caratteristici Impresa,QUICK REPORT PLUS - COFACE (62011),Orchestratore,D02,Real time,1,438,"0,16"
 5,254,Notizie Storiche Estratto o Variazioni:Trasferimenti d'azienda,QUICK REPORT PLUS - COFACE (62011),Orchestratore,D02,Real time,1,438,"0,16"
-5,255,Notizie Storiche Estratto o Variazioni:Liquidazioni, Fallimenti,QUICK REPORT PLUS - COFACE (62011),Orchestratore,D02,Real time,1,438,"0,16"
+5,255,"Notizie Storiche Estratto o Variazioni:Liquidazioni, Fallimenti",QUICK REPORT PLUS - COFACE (62011),Orchestratore,D02,Real time,1,438,"0,16"
 5,256,Titolari di Cariche o Qualifiche,QUICK REPORT PLUS - COFACE (62011),Orchestratore,D02,Real time,1,438,"0,16"
 5,257,Perimetro di controllo Immobiliare,QUICK REPORT PLUS - COFACE (62011),Orchestratore,D02,Real time,1,,0
 5,258,Certificazione di Qualità,QUICK REPORT PLUS - COFACE (62011),Orchestratore,D02,Real time,1,438,"0,16"
